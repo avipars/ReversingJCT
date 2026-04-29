@@ -5,4 +5,6 @@
 
 [VSCode stuff](.vscode)
 
-- Makes build tasks to assemble your files quickly 
+- Makes build tasks to assemble your files quickly
+
+- Add tasks.json to your .vscode folder
