@@ -23,7 +23,7 @@
 
 ## Bonus Stuff: 
 
-- Install a hex editor plugin in Notepad++ or VSCode 
+- Install a hex editor plugin in Notepad++ or VSCode or a standalone one like [imHex](https://github.com/werwolv/imhex)
 
 - If you are using VSCode, I made a tasks.json file which provides shortcuts for assembling and running your programs
    * In the parent directory, add a new folder named .vscode and inside place this [tasks.json](https://github.com/avipars/ReversingJCT/blob/main/.vscode/tasks.json) file
