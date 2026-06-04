@@ -18,12 +18,13 @@
 
 [IDA-Free](https://hex-rays.com/ida-free/)
 - Download the free version and then [set up your account and get a license](https://my.hex-rays.com/dashboard/licenses)
-  * See [this guide](https://docs.hex-rays.com/getting-started/licensing#computer-licenses-activation) for more details 
+  * See [this guide](https://docs.hex-rays.com/getting-started/licensing#computer-licenses-activation) for more details regarding license activation
 
 
 ## Bonus Stuff: 
 
-- Install a hex editor plugin in Notepad++ or VSCode or a standalone one like [imHex](https://github.com/werwolv/imhex)
+- Install a hex editor plugin in Notepad++, VSCode, or a standalone one like [imHex](https://github.com/werwolv/imhex) which is free and open source!
 
 - If you are using VSCode, I made a tasks.json file which provides shortcuts for assembling and running your programs
-   * In the parent directory, add a new folder named .vscode and inside place this [tasks.json](https://github.com/avipars/ReversingJCT/blob/main/.vscode/tasks.json) file
+   * In the parent directory, add a new folder named .vscode and inside place this [tasks.json](https://github.com/avipars/ReversingJCT/blob/main/.vscode/tasks.json) file. Then using build tasks, you can have it use fasm to assemble your code and then run the executable (optional)
+   * This relies on having fasm in your system path (environment variables)
