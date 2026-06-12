@@ -21,6 +21,10 @@
   * See [this guide](https://docs.hex-rays.com/getting-started/licensing#computer-licenses-activation) for more details regarding license activation
 
 
+[CFF Explorer](https://ntcore.com/explorer-suite/)
+
+Used for modifying windows PE details for executables and DLLs
+
 ## Bonus Stuff: 
 
 - Install a hex editor plugin in Notepad++, VSCode, or a standalone one like [imHex](https://github.com/werwolv/imhex) which is free and open source!
